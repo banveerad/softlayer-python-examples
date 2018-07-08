@@ -9,7 +9,7 @@ these examples/tutorials.
 or git clone and install from source.  
 <code>
 git clone https://github.com/softlayer/softlayer-python.git
-  
+
 git clone python setup.py install
 </code>
 
