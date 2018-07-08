@@ -12,7 +12,8 @@ git clone https://github.com/softlayer/softlayer-python.git
 </code>
 
 <code>
-git clone python setup.py install
+python setup.py install
 </code>
+
 
 Do let me know if you find any bugs. 
